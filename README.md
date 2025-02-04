@@ -1,10 +1,30 @@
-# Detection-of-fake-job-postings-using-ML-and-NLP
+Loan Default Prediction
 
-Kindly, find the link of the dataset here.
-https://www.kaggle.com/shivamb/real-or-fake-fake-jobposting-prediction
+Problem Statement & Introduction:
+The task is to predict the loan outcome (Fully Paid or Defaulted) using machine learning models based on borrower details, loan attributes, and credit history.
 
-Objective: The prediction model helps in differentiating the fake job postings from genuine job postings on the basis of various aspects. The dataset contains personal
-and professional details of job seekers. So, on the basis of this the job seekers can proactively take effective measures in selecting the right job.
+Dataset Summary:
+Total Records: 41,029 loans
+Features: 76
+Target Variable: outcome (Loan repayment status)
 
-Outcome: The prediction model helps in analysing and identifying the traits of fake job posts. Location and department wise analysis which will help the job seekers save 
-lot of time, energy and money.
+Feature Categories:
+Loan Details: Loan amount, term, purpose
+Employment: Job title, length, annual income
+Credit History: Delinquencies, credit lines, revolving balances
+Financial Metrics: Debt-to-income ratio (DTI), utilization ratios, account balances
+Behavioral Indicators: Inquiries, payment patterns, bankruptcies
+
+How to Run in Google Colab:
+Upload the 'Two_DS_Tech_Test.xlsx' dataset to Google Colab before running the notebook.
+Open the Colab file and confirm the dataset path is correct.
+Run all cells from top to bottom sequentially.
+
+
+
+
+
+
+
+
+
